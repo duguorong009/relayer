@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["Error","An enum of all possible errors that could be encountered during the execution of the Webb Relayer."]],"mod":[["service","A module for starting long-running tasks for event watching."]],"type":[["Result","A type alias for the result for webb relayer, that uses the `Error` enum."]]};

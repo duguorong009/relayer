@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":[["get_fee_info","Get the current fee info."]],"struct":[["FeeInfo","Return value of fee_info API call. Contains information about relay transaction fee and refunds."]]};

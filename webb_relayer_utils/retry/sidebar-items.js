@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["ConstantWithMaxRetryCount","Constant with Max Retry Count is a backoff policy which always returns a constant duration, until it exceeds the maximum retry count."]]};

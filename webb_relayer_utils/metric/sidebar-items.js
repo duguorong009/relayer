@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["Metrics","A struct definition for collecting metrics in the relayer."],["ResourceMetric","A struct for collecting metrics for particular resource."]]};

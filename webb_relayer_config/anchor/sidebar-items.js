@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["LinkedAnchorConfig","LinkedAnchorConfig is configuration for the linked anchors. Linked anchor can be added in multiple ways"]],"struct":[["RawResourceId","Linked anchor config for Evm based target system"]]};

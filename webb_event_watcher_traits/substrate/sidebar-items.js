@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"trait":[["SubstrateBridgeWatcher","instead it watches for commands sent from other event watchers or services, it helps decouple the event watchers from the actual action that should be taken depending on the event."],["SubstrateEventWatcher","Represents a Substrate event watcher."]],"type":[["BlockNumberOf","Type alias for Substrate block number."]]};

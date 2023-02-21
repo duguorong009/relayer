@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":[["evm","EVM Transactional Relayer."],["substrate","Substrate Transactional Relayer."]]};

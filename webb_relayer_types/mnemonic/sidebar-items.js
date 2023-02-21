@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["Mnemonic","Mnemonic represents a mnemonic."]]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["EventsWatcherConfig","EventsWatchConfig is the configuration for the events watch."]]};

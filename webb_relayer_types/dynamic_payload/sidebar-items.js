@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["WebbDynamicTxPayload","This represents a intermediary type to store `DynamicTxPayload`."]]};

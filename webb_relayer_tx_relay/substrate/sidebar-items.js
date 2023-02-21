@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":[["handle_substrate_tx","Handles a submitted Substrate transaction by processing its `TransactionProgress`."]],"mod":[["mixer","Substrate Mixer Transactional Relayer."],["vanchor","Substrate Variable Anchor Transactional Relayer."]]};

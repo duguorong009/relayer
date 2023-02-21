@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":[["handle_evm_tx","Submits a dry-run and then submits the actual transaction for an EVM transaction."]],"mod":[["fees",""],["vanchor","Variable Anchor transaction relayer."]]};

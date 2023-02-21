@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":[["evm","EVM Events Watcher Traits 🕸️"],["substrate","Substrate Events Watcher Traits 🕸️"]]};

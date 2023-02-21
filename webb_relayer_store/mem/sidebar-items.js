@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["InMemoryStore","InMemoryStore is a store that stores the history of events in memory."]]};

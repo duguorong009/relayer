@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":[["dynamic_payload",""],["mnemonic",""],["private_key",""],["rpc_url",""],["suri",""]]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["ClickableLink","Represents a clickable link containing text and url"]]};

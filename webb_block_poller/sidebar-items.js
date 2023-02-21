@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":[["start_block_poller_service","Start the block poller service which polls ETH blocks"]],"struct":[["BlockWatcher","A struct for listening to blocks / block headers that implements the [`BlockPoller`] trait."]]};

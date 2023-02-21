@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["AnchorRelayTransaction","Contains data that is relayed to the Anchors"],["ExtData","External data for the VAnchor on any chain."],["MixerRelayTransaction","Contains data that is relayed to the Mixers"],["ProofData","Proof data object for VAnchor proofs on any chain"],["VAnchorRelayTransaction","Contains data that is relayed to the VAnchors"]]};
